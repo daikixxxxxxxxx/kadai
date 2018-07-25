@@ -1,20 +1,20 @@
-#ƒƒ{ƒbƒgƒvƒƒOƒ‰ƒ~ƒ“ƒO‚Ì‰Û‘è
+#ãƒ­ãƒœãƒƒãƒˆãƒ—ãƒ­ã‚°ãƒ©ãƒŸãƒ³ã‚°ã®èª²é¡Œ
 
-##ŠT—v
-####‰Û‘è‚Æ‚µ‚ÄESPr developper‚ð—p‚¢‚Äì¬‚µ‚½ŠÈˆÕIOT‚ÌƒvƒƒOƒ‰ƒ€‹y‚ÑØ‹’“®‰æ‚ð‚ ‚°‚éD
+##æ¦‚è¦##
+####èª²é¡Œã¨ã—ã¦ESPr developperã‚’ç”¨ã„ã¦ä½œæˆã—ãŸç°¡æ˜“IOTã®ãƒ—ãƒ­ã‚°ãƒ©ãƒ åŠã³è¨¼æ‹ å‹•ç”»ã‚’ã‚ã’ã‚‹ï¼Ž
 
-##Žg—p‚µ‚½‚à‚Ì
-EESPr developer (ESP8266)
+##ä½¿ç”¨ã—ãŸã‚‚ã®
+ãƒ»ESPr developer (ESP8266)
 <https://www.switch-science.com/catalog/2500/>
 
-Eƒtƒ‹ƒJƒ‰[LED
+ãƒ»ãƒ•ãƒ«ã‚«ãƒ©ãƒ¼LED
 <https://www.amazon.co.jp/LED-PWM%E3%83%A2%E3%82%B8%E3%83%A5%E3%83%BC%E3%83%AB%EF%BC%8CSODIAL-3%E8%89%B2RGB-LED%E3%83%A2%E3%82%B8%E3%83%A5%E3%83%BC%E3%83%AB5050%E3%83%95%E3%83%AB%E3%82%AB%E3%83%A9%E3%83%BCPWM%E5%A4%9A%E8%89%B2LED-MCU%E7%94%A8/dp/B00JGFF8PC/ref=sr_1_4?ie=UTF8&qid=1532331603&sr=8-4&keywords=%E3%83%95%E3%83%AB%E3%82%AB%E3%83%A9%E3%83%BCled%E3%83%A2%E3%82%B8%E3%83%A5%E3%83%BC%E3%83%AB>
 
-##ì¬ƒvƒƒOƒ‰ƒ€
+##ä½œæˆãƒ—ãƒ­ã‚°ãƒ©ãƒ 
 ####LED_controller_memo.ino
 
 
-##ŽQl‚É‚µ‚½ƒTƒCƒg
-####SoftAP ƒ‚[ƒh‘Î‰ž‚µ‚Ü‚µ‚½BEasyWebSocketƒ‰ƒCƒuƒ‰ƒŠ‚ðbeta ver 1.39 ‚ÉƒAƒbƒvƒf[ƒg
+##å‚è€ƒã«ã—ãŸã‚µã‚¤ãƒˆ
+####SoftAP ãƒ¢ãƒ¼ãƒ‰å¯¾å¿œã—ã¾ã—ãŸã€‚EasyWebSocketãƒ©ã‚¤ãƒ–ãƒ©ãƒªã‚’beta ver 1.39 ã«ã‚¢ãƒƒãƒ—ãƒ‡ãƒ¼ãƒˆ
 <https://www.mgo-tec.com/blog-entry-softap-esp8266-easywebsocket139.html>
 
