@@ -19,6 +19,13 @@ __作成プログラム__
 
 LED_controller_memo.ino
 
+__接続先__
+
+ssid名・・・ESP-WROOM-02-AP  
+
+パスワード・・・xxxxxxxxx
+
+URL・・・http://192.168.4.1
 
 __参考にしたサイト__  
 
@@ -33,4 +40,3 @@ __参考にしたサイト__
 ・SoftAP モード対応しました。EasyWebSocketライブラリをbeta ver 1.39 にアップデート
 
 <https://www.mgo-tec.com/blog-entry-softap-esp8266-easywebsocket139.html>
-
