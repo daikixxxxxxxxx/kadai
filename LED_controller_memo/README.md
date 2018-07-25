@@ -2,7 +2,8 @@ __ロボットプログラミングの課題__
 
 __概要__
 
-課題としてESPr developperを用いて作成した簡易IOTのプログラム及び証拠動画をあげる．
+　課題としてESPr developperを用いて作成した簡易IOTのプログラム及び証拠動画をあげる．  
+作成までの手順及びセットアップまでの流れは以下のサイトを参考にした．
 
 __使用したもの__  
 ・ESPr developer (ESP8266)
@@ -18,7 +19,15 @@ LED_controller_memo.ino
 
 
 __参考にしたサイト__  
-SoftAP モード対応しました。EasyWebSocketライブラリをbeta ver 1.39 にアップデート
+・Arduino IDE に Stable ( Staging )版 ESP8266 ボードをインストールする方法
+
+<https://www.mgo-tec.com/esp8266-board-install01-html>
+
+・ESPr Developer ( ESP-WROOM-02 開発ボード )の使い方をザッと紹介
+
+<https://www.mgo-tec.com/blog-entry-ss-wroom-howto01.html>
+
+・SoftAP モード対応しました。EasyWebSocketライブラリをbeta ver 1.39 にアップデート
 
 <https://www.mgo-tec.com/blog-entry-softap-esp8266-easywebsocket139.html>
 
